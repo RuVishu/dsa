@@ -117,7 +117,7 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  See the [LICENSE](LICENSE) file for details. (Please add a LICENSE file if one doesn't exist)
+This project is not explicitly licensed.
 
 
 ---
